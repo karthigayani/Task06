@@ -22,7 +22,6 @@ This class has the following three properties: */
     d) Write a piece of code that creates an instance of the class Movie with the title
        “Casino Royale”, the studio “Eon Productions”, and the rating “PG­13” */
 
-
 // a.
  class Movie{
     constructor(title,studio,rating="PG"){
